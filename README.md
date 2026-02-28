@@ -23,3 +23,13 @@ iOS application built with UIKit using MVVM architecture.
 
 ## 📱 Screenshots
 (Screenshots will be added below)
+
+
+![Home](Screenshots/HomeScreen.png)
+![Home](Screenshots/HomeScreen2.png)
+![Home](Screenshots/UserProfileStats.png)
+![Home](Screenshots/ProPlayers.png)
+![Home](Screenshots/ProFinishedMatches.png)
+![Home](Screenshots/HeroesList.png)
+![Home](Screenshots/HeroDetail.png)
+![Home](Screenshots/SideBar.png)
