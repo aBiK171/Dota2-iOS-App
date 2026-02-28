@@ -25,11 +25,16 @@ iOS application built with UIKit using MVVM architecture.
 (Screenshots will be added below)
 
 
-![Home](Screenshots/HomeScreen.png)
-![Home](Screenshots/HomeScreen2.png)
-![Home](Screenshots/UserProfileStats.png)
-![Home](Screenshots/ProPlayers.png)
-![Home](Screenshots/ProFinishedMatches.png)
-![Home](Screenshots/HeroesList.png)
-![Home](Screenshots/HeroDetail.png)
-![Home](Screenshots/SideBar.png)
+<p align="center">
+  <img src="Screenshots/HomeScreen.png" width="230"/>
+  <img src="Screenshots/HomeScreen2.png" width="230"/>
+  <img src="Screenshots/UserProfileStats.png" width="230"/>
+  <img src="Screenshots/ProPlayers.png" width="230"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/ProFinishedMatches.png" width="230"/>
+  <img src="Screenshots/HeroesList.png" width="230"/>
+  <img src="Screenshots/HeroDetail.png" width="230"/>
+  <img src="Screenshots/SideBar.png" width="230"/>
+</p>
